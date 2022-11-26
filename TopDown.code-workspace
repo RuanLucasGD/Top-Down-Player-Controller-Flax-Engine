@@ -1,0 +1,20 @@
+{
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off",
+		"gulp.autoDetect": "off",
+		"jake.autoDetect": "off",
+		"grunt.autoDetect": "off",
+		"omnisharp.defaultLaunchSolution": "MyProject4.sln"
+	},
+	"folders": [
+		{
+			"name": "MyProject4",
+			"path": "."
+		},
+		{
+			"name": "Flax",
+			"path": "E:\\dev\\FlaxEngine"
+		}
+	]
+}
